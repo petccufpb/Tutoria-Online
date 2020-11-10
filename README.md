@@ -1,2 +1,6 @@
 # Tutoria-Online
-Repositório do material da Tutoria Online de Introdução à Programação.
+
+Material disponível no repositório da Tutoria Online de Introdução à Programação.
+
+* Lista 30/10 (Estruturas de decisão, repetição e coleções)
+* Lista 07/11 (Estruturas de decisão, repetição e coleções)
